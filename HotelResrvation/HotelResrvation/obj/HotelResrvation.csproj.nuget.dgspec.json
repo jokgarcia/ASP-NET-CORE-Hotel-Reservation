@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HotelResevation\\hotel-reservation\\HotelResrvation\\HotelResrvation\\HotelResrvation.csproj": {}
+    "C:\\Workspace\\hotel-reservation\\HotelResrvation\\HotelResrvation\\HotelResrvation.csproj": {}
   },
   "projects": {
-    "C:\\HotelResevation\\hotel-reservation\\HotelResrvation\\HotelResrvation\\HotelResrvation.csproj": {
+    "C:\\Workspace\\hotel-reservation\\HotelResrvation\\HotelResrvation\\HotelResrvation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HotelResevation\\hotel-reservation\\HotelResrvation\\HotelResrvation\\HotelResrvation.csproj",
+        "projectUniqueName": "C:\\Workspace\\hotel-reservation\\HotelResrvation\\HotelResrvation\\HotelResrvation.csproj",
         "projectName": "HotelResrvation",
-        "projectPath": "C:\\HotelResevation\\hotel-reservation\\HotelResrvation\\HotelResrvation\\HotelResrvation.csproj",
+        "projectPath": "C:\\Workspace\\hotel-reservation\\HotelResrvation\\HotelResrvation\\HotelResrvation.csproj",
         "packagesPath": "C:\\Users\\simeon.y.garcia\\.nuget\\packages\\",
-        "outputPath": "C:\\HotelResevation\\hotel-reservation\\HotelResrvation\\HotelResrvation\\obj\\",
+        "outputPath": "C:\\Workspace\\hotel-reservation\\HotelResrvation\\HotelResrvation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
